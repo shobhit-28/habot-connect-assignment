@@ -1,4 +1,4 @@
-interface learningCentre {
+export interface learningCentre {
     "name": string,
     "specialization": string,
     "location": string,
