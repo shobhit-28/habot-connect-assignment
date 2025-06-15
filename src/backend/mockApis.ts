@@ -7,7 +7,8 @@ export interface learningCentre {
     "shortDescription": string,
     "contactEmail": string,
     "img": string,
-    "phoneNumber": string
+    "phoneNumber": string,
+    "id": string
 }
 
 async function loadLearningCentres(): Promise<Array<learningCentre>> {
@@ -21,11 +22,11 @@ export async function getAllCentres(): Promise<Array<learningCentre>> {
     return data;
 }
 
-export async function getCentreByName(name: string): Promise<learningCentre> {
+export async function getCentreByName(id: string): Promise<learningCentre> {
     const data = await loadLearningCentres();
     return new Promise<learningCentre>((resolve, reject) => {
         try {
-            const details: learningCentre | undefined = data.find(c => c.name.toLowerCase() === name.toLowerCase())
+            const details: learningCentre | undefined = data.find(c => c.id.toLowerCase() === id.toLowerCase())
             if (details) {
                 resolve(details)
             } else {

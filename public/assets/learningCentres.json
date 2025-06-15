@@ -8,7 +8,8 @@
         "shortDescription": "Physical disability rehab & academics",
         "contactEmail": "diriph@nic.in",
         "img": "https://picsum.photos/250/250?random=11",
-        "phoneNumber": "+91-11-23232403"
+        "phoneNumber": "+91-11-23232403",
+        "id": "96d0664515e09b02"
     },
     {
         "name": "National Institute for Empowerment of Persons with Multiple Disabilities",
@@ -19,7 +20,8 @@
         "shortDescription": "Multi-disability training & rehab",
         "contactEmail": "niepmd@gmail.com",
         "img": "https://picsum.photos/250/250?random=12",
-        "phoneNumber": "+91-44-274721040"
+        "phoneNumber": "+91-44-274721040",
+        "id": "2a3becd8d9c255f4"
     },
     {
         "name": "NeuroGen Brain and Spine Institute",
@@ -30,7 +32,8 @@
         "shortDescription": "Cell therapy for autism",
         "contactEmail": "info@neurogenbsi.com",
         "img": "https://picsum.photos/250/250?random=13",
-        "phoneNumber": "+91-22-26568000"
+        "phoneNumber": "+91-22-26568000",
+        "id": "0c135d29b6c74d7f"
     },
     {
         "name": "India Autism Center",
@@ -41,7 +44,8 @@
         "shortDescription": "Autism care & rehab",
         "contactEmail": "info@indiaautismcenter.org",
         "img": "https://picsum.photos/250/250?random=14",
-        "phoneNumber": "+91-33-XXXXX"
+        "phoneNumber": "+91-33-XXXXX",
+        "id": "081189f91d11b577"
     },
     {
         "name": "Tabis – The Aditya Birla Integrated School",
@@ -52,7 +56,8 @@
         "shortDescription": "Inclusive learning disabilities school",
         "contactEmail": "info@adityabirlaintegratedschool.com",
         "img": "https://picsum.photos/250/250?random=15",
-        "phoneNumber": "+91-22-XXXXX"
+        "phoneNumber": "+91-22-XXXXX",
+        "id": "3c3dc75891eb02ad"
     },
     {
         "name": "RARRC – School for Children with Autism",
@@ -63,7 +68,8 @@
         "shortDescription": "Autism spectrum school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=16",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "d6534f892218d611"
     },
     {
         "name": "Institute for Communicative and Cognitive Neurosciences",
@@ -74,7 +80,8 @@
         "shortDescription": "Neuro‑rehab centre",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=17",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "e4ffb8da215c3984"
     },
     {
         "name": "Asha Kiran Special Needs School",
@@ -85,7 +92,8 @@
         "shortDescription": "Autism & learning support",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=18",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "dd035f7bbd63653f"
     },
     {
         "name": "Asha Hai",
@@ -96,18 +104,20 @@
         "shortDescription": "Autism & cultural adaptation",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=19",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "a9820e1c312c9fa8"
     },
     {
         "name": "Pavani Autism Special Schools",
         "specialization": "Autism education & habilitation",
         "location": "Secunderabad, Telangana",
-        "rating": 5.0,
+        "rating": 5,
         "longDescription": "Top‑rated autism school providing specialized education, therapy, social skills training and parent support.",
         "shortDescription": "Top autism school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=20",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "783a6062c8e5176b"
     },
     {
         "name": "National Institute for the Empowerment of Persons with Visual Disabilities",
@@ -118,7 +128,8 @@
         "shortDescription": "Blindness education & rehabilitation",
         "contactEmail": "info@nivh.gov.in",
         "img": "https://picsum.photos/250/250?random=1",
-        "phoneNumber": "+91-133-2741231"
+        "phoneNumber": "+91-133-2741231",
+        "id": "075a5e83bba37021"
     },
     {
         "name": "National Institute for the Empowerment of Persons with Intellectual Disabilities (NIEPID)",
@@ -129,7 +140,8 @@
         "shortDescription": "Intellectual disability vocational & inclusive services",
         "contactEmail": "info@niepid.nic.in",
         "img": "https://picsum.photos/250/250?random=2",
-        "phoneNumber": "+91-40-27738318"
+        "phoneNumber": "+91-40-27738318",
+        "id": "b375ced3959a947b"
     },
     {
         "name": "Ali Yavar Jung National Institute of Speech & Hearing Disabilities (AYJNISHD)",
@@ -140,7 +152,8 @@
         "shortDescription": "Speech & hearing rehabilitation",
         "contactEmail": "director@ayjnihh.nic.in",
         "img": "https://picsum.photos/250/250?random=3",
-        "phoneNumber": "+91-22-27145500"
+        "phoneNumber": "+91-22-27145500",
+        "id": "b14f0f186d4eee9c"
     },
     {
         "name": "SPJ Sadhana School",
@@ -151,7 +164,8 @@
         "shortDescription": "Autism & multi-disability support",
         "contactEmail": "contact@spjsadhana.ac.in",
         "img": "https://picsum.photos/250/250?random=4",
-        "phoneNumber": "+91-22-28712831"
+        "phoneNumber": "+91-22-28712831",
+        "id": "cba5dd52e5c839ba"
     },
     {
         "name": "Aatman Academy",
@@ -162,7 +176,8 @@
         "shortDescription": "Learning support & therapy",
         "contactEmail": "info@aatmanacademy.in",
         "img": "https://picsum.photos/250/250?random=5",
-        "phoneNumber": "+91-22-25300087"
+        "phoneNumber": "+91-22-25300087",
+        "id": "a431c75c7cb20359"
     },
     {
         "name": "Jai Vakeel School",
@@ -173,7 +188,8 @@
         "shortDescription": "Special education & vocational training",
         "contactEmail": "info@jaivakeel.org",
         "img": "https://picsum.photos/250/250?random=6",
-        "phoneNumber": "+91-22-23525635"
+        "phoneNumber": "+91-22-23525635",
+        "id": "21ba723ce8ffa969"
     },
     {
         "name": "Dilkhush Special School",
@@ -184,7 +200,8 @@
         "shortDescription": "Multi-disability education & therapy",
         "contactEmail": "contact@dilkhush.org",
         "img": "https://picsum.photos/250/250?random=7",
-        "phoneNumber": "+91-22-26795678"
+        "phoneNumber": "+91-22-26795678",
+        "id": "dc88a2b9ce4362a9"
     },
     {
         "name": "Academy for Severe Handicaps and Autism (ASHA)",
@@ -195,7 +212,8 @@
         "shortDescription": "Autism & severe disability therapy",
         "contactEmail": "info@asha.org.in",
         "img": "https://picsum.photos/250/250?random=8",
-        "phoneNumber": "+91-80-23225279"
+        "phoneNumber": "+91-80-23225279",
+        "id": "dee2614de96c501e"
     },
     {
         "name": "National Institute of Speech and Hearing (NISH)",
@@ -206,7 +224,8 @@
         "shortDescription": "Hearing impairment & inclusive academics",
         "contactEmail": "info@nish.ac.in",
         "img": "https://picsum.photos/250/250?random=9",
-        "phoneNumber": "+91-471-2511120"
+        "phoneNumber": "+91-471-2511120",
+        "id": "6aa5aa932ce894f8"
     },
     {
         "name": "Samarthanam Trust for the Disabled",
@@ -217,7 +236,8 @@
         "shortDescription": "Blind & disability vocational services",
         "contactEmail": "info@samarthanam.org",
         "img": "https://picsum.photos/250/250?random=10",
-        "phoneNumber": "+91-80-40927000"
+        "phoneNumber": "+91-80-40927000",
+        "id": "dd9b8e8612eca8fb"
     },
     {
         "name": "Fame India",
@@ -228,7 +248,8 @@
         "shortDescription": "Intellectual disability & autism support",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=21",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "510b196d36bd9bc9"
     },
     {
         "name": "Mother’s Special School for Intellectual Disability and Autism",
@@ -239,7 +260,8 @@
         "shortDescription": "Autism & intellectual disability school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=22",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "d0a82106d67fd9b8"
     },
     {
         "name": "Krishnan Centre for Special Needs",
@@ -250,18 +272,20 @@
         "shortDescription": "Multi-disability centre",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=23",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "8975ff0baec70f89"
     },
     {
         "name": "Parvarish Special School",
         "specialization": "Multiple disabilities",
         "location": "New Delhi, Delhi",
-        "rating": 5.0,
+        "rating": 5,
         "longDescription": "Highly rated special school offering comprehensive education, therapy, life skills training.",
         "shortDescription": "Multi-disability education",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=24",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "2df62b8bb37270a7"
     },
     {
         "name": "Sparsh Special School",
@@ -272,7 +296,8 @@
         "shortDescription": "Multi-disability support school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=25",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "e649c5a2db8fc790"
     },
     {
         "name": "Tamana Autism Centre – School of Hope",
@@ -283,7 +308,8 @@
         "shortDescription": "Autism school & residential",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=26",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "4751587b7d6f7cb4"
     },
     {
         "name": "Sankalp",
@@ -294,7 +320,8 @@
         "shortDescription": "Autism support centre",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=27",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "b2762a704a2f4081"
     },
     {
         "name": "Alpha to Omega Learning Centre",
@@ -305,7 +332,8 @@
         "shortDescription": "Learning disabilities centre",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=28",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "d3d823b74d517e0f"
     },
     {
         "name": "Brindavan Education Centre",
@@ -316,7 +344,8 @@
         "shortDescription": "Multi-disability education centre",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=29",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "d1ef2eb463779c36"
     },
     {
         "name": "Sambhav Special School & Rehabilitation Centre",
@@ -327,18 +356,20 @@
         "shortDescription": "Residential rehabilitation school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=30",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "b84710ae88f42524"
     },
     {
         "name": "Devotion School for Inclusion of Children with Special Needs",
         "specialization": "Inclusive special education",
         "location": "Delhi, Delhi",
-        "rating": 5.0,
+        "rating": 5,
         "longDescription": "Focuses on inclusion, individualised education plans, therapy and community integration.",
         "shortDescription": "Inclusive education school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=31",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "c1f43a89eaee1372"
     },
     {
         "name": "Sweekaar Academy of Rehabilitation Sciences (SARS)",
@@ -349,7 +380,8 @@
         "shortDescription": "Rehabilitation academy",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=32",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "cac2520b10ceda58"
     },
     {
         "name": "Wisdomms Special School & Learning Centre",
@@ -360,7 +392,8 @@
         "shortDescription": "Special needs school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=33",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "4d266de40c9f4e3b"
     },
     {
         "name": "Margshree Special School & Therapy Centre",
@@ -371,7 +404,8 @@
         "shortDescription": "Special therapy centre",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=34",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "48bebd14a8dec2da"
     },
     {
         "name": "Mata Bhagwanti Chadha Niketan (MBCN)",
@@ -382,7 +416,8 @@
         "shortDescription": "Inclusive philanthropic school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=35",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "9b93818966bc9540"
     },
     {
         "name": "Sunderji Institute of Special School",
@@ -393,7 +428,8 @@
         "shortDescription": "Special needs institute",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=36",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "b9d8442b82664f0f"
     },
     {
         "name": "Jai Vakeel School",
@@ -404,7 +440,8 @@
         "shortDescription": "Multi-disability school",
         "contactEmail": "info@jaivakeel.org",
         "img": "https://picsum.photos/250/250?random=37",
-        "phoneNumber": "+91-22-23525635"
+        "phoneNumber": "+91-22-23525635",
+        "id": "109fabe8459c51c3"
     },
     {
         "name": "The Gateway School",
@@ -415,7 +452,8 @@
         "shortDescription": "Learning disabilities school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=38",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "ad93a1f3142a86fd"
     },
     {
         "name": "Bethany Special School",
@@ -426,7 +464,8 @@
         "shortDescription": "Multi-disability school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=39",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "d4e39b3f6bd56177"
     },
     {
         "name": "Vidyaniketan Academy – Centre for Learning Challenges",
@@ -437,7 +476,8 @@
         "shortDescription": "Learning challenges centre",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=40",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "907fd1ac6d134ccd"
     },
     {
         "name": "Bubbles Centre for Autism",
@@ -448,7 +488,8 @@
         "shortDescription": "Autism therapy centre",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=41",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "4c21de3a66976a4b"
     },
     {
         "name": "Manovikas (Kulachi Hansraj Model School)",
@@ -459,7 +500,8 @@
         "shortDescription": "Special education mainstream school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=42",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "7e0dc143573d7d63"
     },
     {
         "name": "Blue Bells School for Integrating Learning",
@@ -470,18 +512,20 @@
         "shortDescription": "Inclusive learning school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=43",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "71888d7b5cf63528"
     },
     {
         "name": "Mouse Trust – Hearing Impaired School",
         "specialization": "Hearing impairment",
         "location": "Rural Gujarat",
-        "rating": 4.0,
+        "rating": 4,
         "longDescription": "Residential rehabilitation and education centre for hearing impaired students in rural areas.",
         "shortDescription": "Rural hearing impairment school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=44",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "2255c932f31320f7"
     },
     {
         "name": "Vatika High School for Deaf & Dumb",
@@ -492,7 +536,8 @@
         "shortDescription": "Deaf education & vocational training",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=45",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "ee731970e4792c9e"
     },
     {
         "name": "G V School",
@@ -503,7 +548,8 @@
         "shortDescription": "Charity-based special school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=46",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "4314a1a356d947ae"
     },
     {
         "name": "Air Force Golden Jubilee Institute (Special Wing)",
@@ -514,7 +560,8 @@
         "shortDescription": "Special needs wing within mainstream school",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=47",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "ce23d44356aced00"
     },
     {
         "name": "Seva Bharati – Special Needs Centres",
@@ -525,7 +572,8 @@
         "shortDescription": "Nationwide special needs NGO",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=48",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "ac4dce8e63f3e93e"
     },
     {
         "name": "Pratham – Education Initiatives (Special Inclusion)",
@@ -536,7 +584,8 @@
         "shortDescription": "Learning inclusion NGO",
         "contactEmail": "",
         "img": "https://picsum.photos/250/250?random=49",
-        "phoneNumber": ""
+        "phoneNumber": "",
+        "id": "3409811da7e2245d"
     },
     {
         "name": "NeuroGen Brain and Spine Institute (Mumbai)",
@@ -547,6 +596,7 @@
         "shortDescription": "Autism therapy & education",
         "contactEmail": "info@neurogenbsi.com",
         "img": "https://picsum.photos/250/250?random=50",
-        "phoneNumber": "+91-22-26568000"
+        "phoneNumber": "+91-22-26568000",
+        "id": "ea641d3b2bb0a466"
     }
 ]
