@@ -23,5 +23,18 @@ export async function getAllCentres(): Promise<Array<learningCentre>> {
 
 export async function getCentreByName(name: string): Promise<learningCentre> {
     const data = await loadLearningCentres();
-    return data.find(c => c.name.toLowerCase() === name.toLowerCase()) as learningCentre;
+    return new Promise<learningCentre>((resolve, reject) => {
+        try {
+            const details: learningCentre | undefined = data.find(c => c.name.toLowerCase() === name.toLowerCase())
+            if (details) {
+                resolve(details)
+            } else {
+                reject(`Not Found`)
+            }
+            
+        } catch (error) {
+            console.error(error)
+            reject(error)
+        }
+    })
 }

@@ -15,9 +15,7 @@ export const HomePage: React.FC = () => {
     }, [])
 
     return (
-        <div className="">
-
-            <div>homePage</div>
+        <div className="p-5">
             <div className="card-container flex flex-wrap gap-4">
                 {learningCentres.map((learningCentres, i) => <CardsComponent learningCentre={learningCentres} key={i} />)}
             </div>
